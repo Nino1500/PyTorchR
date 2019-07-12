@@ -25,6 +25,8 @@ classes = ('plane', 'car', 'bird', 'cat',
 
 # functions to show an image
 
+#test test and test
+testvar=4
 
 def imshow(img):
     img = img / 2 + 0.5     # unnormalize
