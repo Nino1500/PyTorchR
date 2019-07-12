@@ -25,7 +25,7 @@ classes = ('plane', 'car', 'bird', 'cat',
 
 # functions to show an image
 
-#test test and test
+#test test and tests
 testvar=4
 
 def imshow(img):
